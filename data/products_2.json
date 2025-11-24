@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Pet Food Storage Container",
+    "price": 8,
+    "category": "Food",
+    "tags": "handmade",
+    "brand": "Yodo"
+  },
+  {
+    "name": "Outdoor Inflatable Pool",
+    "price": 126,
+    "category": "Beauty",
+    "tags": "wireless",
+    "brand": "Babblestorm"
+  },
+  {
+    "name": "Air Fryer",
+    "price": 192,
+    "category": "Food",
+    "tags": "premium",
+    "brand": "Browsetype"
+  },
+  {
+    "name": "Tomato Paste",
+    "price": 68,
+    "category": "Home",
+    "tags": "lightweight",
+    "brand": "Centidel"
+  },
+  {
+    "name": "Canvas Tote Bag",
+    "price": 62,
+    "category": "Sports",
+    "tags": "wireless",
+    "brand": "Yozio"
+  },
+  {
+    "name": "Wooden Children's Play Kitchen",
+    "price": 57,
+    "category": "Office",
+    "tags": "portable",
+    "brand": "Blognation"
+  },
+  {
+    "name": "Chocolate Covered Pretzels",
+    "price": 147,
+    "category": "Home",
+    "tags": "handmade",
+    "brand": "Tazzy"
+  },
+  {
+    "name": "Oats",
+    "price": 139,
+    "category": "Beauty",
+    "tags": "bluetooth",
+    "brand": "Abata"
+  },
+  {
+    "name": "Trendy Bomber Jacket",
+    "price": 145,
+    "category": "Clothing",
+    "tags": "eco",
+    "brand": "Fiveclub"
+  },
+  {
+    "name": "Dried Apricots",
+    "price": 18,
+    "category": "Clothing",
+    "tags": "luxury",
+    "brand": "Realblab"
+  },
+  {
+    "name": "Outdoor Adventure Backpack",
+    "price": 87,
+    "category": "Office",
+    "tags": "luxury",
+    "brand": "Pixope"
+  },
+  {
+    "name": "DIY Candle Kit",
+    "price": 6,
+    "category": "Office",
+    "tags": "portable",
+    "brand": "Devshare"
+  },
+  {
+    "name": "Blueberry Chia Jam",
+    "price": 30,
+    "category": "Toys",
+    "tags": "durable",
+    "brand": "Layo"
+  },
+  {
+    "name": "Denim Jacket",
+    "price": 52,
+    "category": "Home",
+    "tags": "wireless",
+    "brand": "Shuffledrive"
+  },
+  {
+    "name": "Chocolate Chip Muffins",
+    "price": 172,
+    "category": "Home",
+    "tags": "budget",
+    "brand": "Voolia"
+  },
+  {
+    "name": "Spicy Thai Coconut Soup",
+    "price": 183,
+    "category": "Office",
+    "tags": "bluetooth",
+    "brand": "Quatz"
+  },
+  {
+    "name": "Wire Shelving Unit",
+    "price": 155,
+    "category": "Toys",
+    "tags": "eco",
+    "brand": "Ooba"
+  },
+  {
+    "name": "Electric Air Pump",
+    "price": 37,
+    "category": "Sports",
+    "tags": "bluetooth",
+    "brand": "Fivechat"
+  },
+  {
+    "name": "Reusable Food Storage Bags",
+    "price": 47,
+    "category": "Electronics",
+    "tags": "portable",
+    "brand": "Skaboo"
+  },
+  {
+    "name": "Travel Sewing Kit",
+    "price": 107,
+    "category": "Electronics",
+    "tags": "luxury",
+    "brand": "Blogtag"
+  },
+  {
+    "name": "Vacuum Sealer Machine",
+    "price": 64,
+    "category": "Beauty",
+    "tags": "portable",
+    "brand": "Realbridge"
+  },
+  {
+    "name": "Adjustable Laptop Desk",
+    "price": 95,
+    "category": "Electronics",
+    "tags": "handmade",
+    "brand": "Lazzy"
+  },
+  {
+    "name": "Wall Decals for Kids",
+    "price": 13,
+    "category": "Toys",
+    "tags": "bluetooth",
+    "brand": "Trudeo"
+  },
+  {
+    "name": "Organic Chia Seeds",
+    "price": 101,
+    "category": "Electronics",
+    "tags": "durable",
+    "brand": "Miboo"
+  },
+  {
+    "name": "Portable Air Compressor",
+    "price": 160,
+    "category": "Home",
+    "tags": "gaming",
+    "brand": "Plambee"
+  },
+  {
+    "name": "Frozen Salmon Filets",
+    "price": 57,
+    "category": "Food",
+    "tags": "wireless",
+    "brand": "Rooxo"
+  },
+  {
+    "name": "Pepperoni Pizza Rolls",
+    "price": 11,
+    "category": "Home",
+    "tags": "handmade",
+    "brand": "Meevee"
+  },
+  {
+    "name": "Leather Crossbody Bag",
+    "price": 150,
+    "category": "Sports",
+    "tags": "handmade",
+    "brand": "Jabbersphere"
+  },
+  {
+    "name": "Emergency Preparedness Kit",
+    "price": 91,
+    "category": "Home",
+    "tags": "portable",
+    "brand": "Eadel"
+  },
+  {
+    "name": "Cheesy Broccoli Soup Mix",
+    "price": 124,
+    "category": "Sports",
+    "tags": "reusable",
+    "brand": "Digitube"
+  },
+  {
+    "name": "Pumpkin Waffles",
+    "price": 13,
+    "category": "Electronics",
+    "tags": "budget",
+    "brand": "Youspan"
+  },
+  {
+    "name": "Spinach Artichoke Dip",
+    "price": 130,
+    "category": "Beauty",
+    "tags": "durable",
+    "brand": "Fiveclub"
+  },
+  {
+    "name": "Safety Goggles",
+    "price": 105,
+    "category": "Beauty",
+    "tags": "premium",
+    "brand": "Pixonyx"
+  },
+  {
+    "name": "Ergonomic Mouse Pad with Wrist Support",
+    "price": 197,
+    "category": "Toys",
+    "tags": "premium",
+    "brand": "Aimbu"
+  },
+  {
+    "name": "Smartphone Gimbal",
+    "price": 196,
+    "category": "Clothing",
+    "tags": "budget",
+    "brand": "Eabox"
+  },
+  {
+    "name": "Pasta Sauce Mix",
+    "price": 122,
+    "category": "Toys",
+    "tags": "eco",
+    "brand": "Babbleblab"
+  },
+  {
+    "name": "Sweet Chili Sauce",
+    "price": 21,
+    "category": "Home",
+    "tags": "premium",
+    "brand": "Lajo"
+  },
+  {
+    "name": "Garlic Naan Bread",
+    "price": 146,
+    "category": "Toys",
+    "tags": "budget",
+    "brand": "Dynava"
+  },
+  {
+    "name": "Wrist Support Brace",
+    "price": 141,
+    "category": "Sports",
+    "tags": "reusable",
+    "brand": "Eayo"
+  },
+  {
+    "name": "Dog Frisbee Toy",
+    "price": 37,
+    "category": "Toys",
+    "tags": "bluetooth",
+    "brand": "Meevee"
+  },
+  {
+    "name": "Wall Decals for Kids",
+    "price": 168,
+    "category": "Sports",
+    "tags": "bluetooth",
+    "brand": "Photofeed"
+  },
+  {
+    "name": "Knitted Infinity Scarf",
+    "price": 67,
+    "category": "Clothing",
+    "tags": "waterproof",
+    "brand": "Twitterlist"
+  },
+  {
+    "name": "Beach Cover-Up",
+    "price": 84,
+    "category": "Toys",
+    "tags": "luxury",
+    "brand": "Youspan"
+  },
+  {
+    "name": "Rustic Italian Bread",
+    "price": 105,
+    "category": "Clothing",
+    "tags": "durable",
+    "brand": "Twinder"
+  },
+  {
+    "name": "Jasmine Rice",
+    "price": 39,
+    "category": "Sports",
+    "tags": "wireless",
+    "brand": "Brainsphere"
+  },
+  {
+    "name": "Herbal Tea Sampler Box",
+    "price": 172,
+    "category": "Electronics",
+    "tags": "waterproof",
+    "brand": "Tambee"
+  },
+  {
+    "name": "Dish Soap Dispenser",
+    "price": 32,
+    "category": "Food",
+    "tags": "luxury",
+    "brand": "Browsebug"
+  },
+  {
+    "name": "Travel Jewelry Organizer",
+    "price": 51,
+    "category": "Beauty",
+    "tags": "eco",
+    "brand": "Feedfire"
+  },
+  {
+    "name": "Chocolate Chip Muffins",
+    "price": 150,
+    "category": "Electronics",
+    "tags": "healthy",
+    "brand": "Skinte"
+  },
+  {
+    "name": "Memory Foam Mattress Pad",
+    "price": 3,
+    "category": "Toys",
+    "tags": "portable",
+    "brand": "Skaboo"
+  }
+]

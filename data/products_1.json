@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Incense Holder",
+    "price": 3,
+    "category": "Office",
+    "tags": "bluetooth",
+    "brand": "Trupe"
+  },
+  {
+    "name": "Portable Projector",
+    "price": 18,
+    "category": "Electronics",
+    "tags": "waterproof",
+    "brand": "Photojam"
+  },
+  {
+    "name": "Suction Cup Hooks",
+    "price": 153,
+    "category": "Food",
+    "tags": "reusable",
+    "brand": "Mita"
+  },
+  {
+    "name": "Compressible Packing Cubes",
+    "price": 131,
+    "category": "Beauty",
+    "tags": "gaming",
+    "brand": "Oloo"
+  },
+  {
+    "name": "Sliced Bread",
+    "price": 103,
+    "category": "Clothing",
+    "tags": "budget",
+    "brand": "Gabspot"
+  },
+  {
+    "name": "Oven-Baked Potato Chips",
+    "price": 113,
+    "category": "Toys",
+    "tags": "organic",
+    "brand": "Skippad"
+  },
+  {
+    "name": "Insulated Coffee Mug",
+    "price": 52,
+    "category": "Food",
+    "tags": "lightweight",
+    "brand": "Skynoodle"
+  },
+  {
+    "name": "Folding Table",
+    "price": 55,
+    "category": "Sports",
+    "tags": "portable",
+    "brand": "Devpoint"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "price": 121,
+    "category": "Home",
+    "tags": "gaming",
+    "brand": "Thoughtbeat"
+  },
+  {
+    "name": "Vegan Chocolate Cake Mix",
+    "price": 83,
+    "category": "Electronics",
+    "tags": "durable",
+    "brand": "Topicstorm"
+  },
+  {
+    "name": "Almond Joy Protein Bars",
+    "price": 80,
+    "category": "Sports",
+    "tags": "gaming",
+    "brand": "Jetwire"
+  },
+  {
+    "name": "Chili Lime Seasoning",
+    "price": 97,
+    "category": "Office",
+    "tags": "waterproof",
+    "brand": "Meevee"
+  },
+  {
+    "name": "Vegetable Pizza Rolls",
+    "price": 148,
+    "category": "Home",
+    "tags": "handmade",
+    "brand": "Trupe"
+  },
+  {
+    "name": "Antique Style Clock",
+    "price": 165,
+    "category": "Toys",
+    "tags": "luxury",
+    "brand": "Photobug"
+  },
+  {
+    "name": "Frozen Broccoli",
+    "price": 155,
+    "category": "Clothing",
+    "tags": "waterproof",
+    "brand": "Eidel"
+  },
+  {
+    "name": "Ethically-Sourced Coffee Beans",
+    "price": 66,
+    "category": "Clothing",
+    "tags": "premium",
+    "brand": "Babbleset"
+  },
+  {
+    "name": "Blackberry Jam",
+    "price": 180,
+    "category": "Office",
+    "tags": "eco",
+    "brand": "Jayo"
+  },
+  {
+    "name": "Cheese Stuffed Jalapenos",
+    "price": 102,
+    "category": "Home",
+    "tags": "luxury",
+    "brand": "Twimm"
+  },
+  {
+    "name": "Organic Sweet Potatoes",
+    "price": 189,
+    "category": "Office",
+    "tags": "bluetooth",
+    "brand": "Shufflebeat"
+  },
+  {
+    "name": "Beef Enchilada Casserole",
+    "price": 57,
+    "category": "Office",
+    "tags": "lightweight",
+    "brand": "Skilith"
+  },
+  {
+    "name": "Honey Butter Popcorn",
+    "price": 25,
+    "category": "Electronics",
+    "tags": "eco",
+    "brand": "Bubbletube"
+  },
+  {
+    "name": "Personal Blender with Cups",
+    "price": 107,
+    "category": "Home",
+    "tags": "lightweight",
+    "brand": "Skiba"
+  },
+  {
+    "name": "Pepper Jack Cheese Slices",
+    "price": 106,
+    "category": "Electronics",
+    "tags": "eco",
+    "brand": "Leenti"
+  },
+  {
+    "name": "Lentil Soup",
+    "price": 181,
+    "category": "Electronics",
+    "tags": "eco",
+    "brand": "Geba"
+  },
+  {
+    "name": "Collapsible Camping Cup",
+    "price": 176,
+    "category": "Office",
+    "tags": "bluetooth",
+    "brand": "Gigazoom"
+  },
+  {
+    "name": "Digital Kitchen Timer",
+    "price": 97,
+    "category": "Electronics",
+    "tags": "portable",
+    "brand": "Twitternation"
+  },
+  {
+    "name": "Beef Jerky",
+    "price": 184,
+    "category": "Home",
+    "tags": "gaming",
+    "brand": "Browsezoom"
+  },
+  {
+    "name": "Tabletop Fire Pit",
+    "price": 115,
+    "category": "Sports",
+    "tags": "waterproof",
+    "brand": "Blogtag"
+  },
+  {
+    "name": "LED Canopy Lights",
+    "price": 138,
+    "category": "Sports",
+    "tags": "budget",
+    "brand": "Skiptube"
+  },
+  {
+    "name": "Nutty Granola Clusters",
+    "price": 88,
+    "category": "Sports",
+    "tags": "healthy",
+    "brand": "Divanoodle"
+  },
+  {
+    "name": "Digital Alarm Clock",
+    "price": 49,
+    "category": "Beauty",
+    "tags": "wireless",
+    "brand": "Tekfly"
+  },
+  {
+    "name": "Fresh Basil",
+    "price": 57,
+    "category": "Food",
+    "tags": "reusable",
+    "brand": "Trilia"
+  },
+  {
+    "name": "Plant Pot Drip Trays",
+    "price": 122,
+    "category": "Beauty",
+    "tags": "bluetooth",
+    "brand": "Skaboo"
+  },
+  {
+    "name": "3D Night Light",
+    "price": 129,
+    "category": "Electronics",
+    "tags": "premium",
+    "brand": "Bluezoom"
+  },
+  {
+    "name": "Key Finder",
+    "price": 184,
+    "category": "Beauty",
+    "tags": "bluetooth",
+    "brand": "DabZ"
+  },
+  {
+    "name": "LED Christmas Tree Lights",
+    "price": 161,
+    "category": "Food",
+    "tags": "luxury",
+    "brand": "Kimia"
+  },
+  {
+    "name": "Natural Peanut Butter",
+    "price": 118,
+    "category": "Sports",
+    "tags": "bluetooth",
+    "brand": "Quatz"
+  },
+  {
+    "name": "Heat-Resistant Silicone Mat",
+    "price": 95,
+    "category": "Beauty",
+    "tags": "reusable",
+    "brand": "Wikibox"
+  },
+  {
+    "name": "DIY Candle Kit",
+    "price": 162,
+    "category": "Food",
+    "tags": "waterproof",
+    "brand": "Myworks"
+  },
+  {
+    "name": "Maxi Wrap Dress",
+    "price": 67,
+    "category": "Electronics",
+    "tags": "waterproof",
+    "brand": "Roomm"
+  },
+  {
+    "name": "Sliced Cucumbers",
+    "price": 17,
+    "category": "Beauty",
+    "tags": "eco",
+    "brand": "Oloo"
+  },
+  {
+    "name": "Insulated Lunch Box",
+    "price": 69,
+    "category": "Food",
+    "tags": "wireless",
+    "brand": "Avaveo"
+  },
+  {
+    "name": "Wireless Range Extender",
+    "price": 73,
+    "category": "Clothing",
+    "tags": "gaming",
+    "brand": "Flipstorm"
+  },
+  {
+    "name": "Pineapple Rings",
+    "price": 50,
+    "category": "Sports",
+    "tags": "organic",
+    "brand": "Pixoboo"
+  },
+  {
+    "name": "White Rice",
+    "price": 12,
+    "category": "Electronics",
+    "tags": "healthy",
+    "brand": "Zoonoodle"
+  },
+  {
+    "name": "Veggie Chips Variety Pack",
+    "price": 83,
+    "category": "Electronics",
+    "tags": "waterproof",
+    "brand": "Meezzy"
+  },
+  {
+    "name": "Cinnamon Raisin Bread",
+    "price": 21,
+    "category": "Sports",
+    "tags": "organic",
+    "brand": "Kwinu"
+  },
+  {
+    "name": "Car Sunshade",
+    "price": 163,
+    "category": "Beauty",
+    "tags": "wireless",
+    "brand": "Fiveclub"
+  },
+  {
+    "name": "LED Table Lamp",
+    "price": 132,
+    "category": "Electronics",
+    "tags": "handmade",
+    "brand": "Quaxo"
+  },
+  {
+    "name": "Spicy Kimchi",
+    "price": 179,
+    "category": "Food",
+    "tags": "eco",
+    "brand": "Flashpoint"
+  }
+]

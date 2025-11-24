@@ -1,0 +1,352 @@
+[
+  {
+    "name": "Electric Toothbrush",
+    "price": 117,
+    "category": "Food",
+    "tags": "bluetooth",
+    "brand": "Flashspan"
+  },
+  {
+    "name": "Fitness Tracker",
+    "price": 3,
+    "category": "Electronics",
+    "tags": "luxury",
+    "brand": "Jaloo"
+  },
+  {
+    "name": "Smart WiFi Plug",
+    "price": 143,
+    "category": "Clothing",
+    "tags": "waterproof",
+    "brand": "Meejo"
+  },
+  {
+    "name": "Pepperoni Pizza Roll-Ups",
+    "price": 169,
+    "category": "Clothing",
+    "tags": "organic",
+    "brand": "Vidoo"
+  },
+  {
+    "name": "Surimi Crab Sticks",
+    "price": 137,
+    "category": "Office",
+    "tags": "eco",
+    "brand": "Eidel"
+  },
+  {
+    "name": "Spaghetti and Meatball Dinner Kit",
+    "price": 129,
+    "category": "Sports",
+    "tags": "organic",
+    "brand": "Yacero"
+  },
+  {
+    "name": "Chickpea Salad",
+    "price": 179,
+    "category": "Beauty",
+    "tags": "portable",
+    "brand": "Yambee"
+  },
+  {
+    "name": "Travel Jewelry Case",
+    "price": 176,
+    "category": "Toys",
+    "tags": "luxury",
+    "brand": "Flipstorm"
+  },
+  {
+    "name": "Beach Cover-Up",
+    "price": 47,
+    "category": "Electronics",
+    "tags": "handmade",
+    "brand": "Meembee"
+  },
+  {
+    "name": "Italian Herbal Seasoning",
+    "price": 152,
+    "category": "Home",
+    "tags": "premium",
+    "brand": "Meeveo"
+  },
+  {
+    "name": "Biodegradable Dog Waste Bags",
+    "price": 106,
+    "category": "Sports",
+    "tags": "wireless",
+    "brand": "Topicshots"
+  },
+  {
+    "name": "Dried Fruit Medley",
+    "price": 158,
+    "category": "Beauty",
+    "tags": "portable",
+    "brand": "Ooba"
+  },
+  {
+    "name": "Lemon Dill Salmon",
+    "price": 176,
+    "category": "Home",
+    "tags": "organic",
+    "brand": "Devpulse"
+  },
+  {
+    "name": "Sliced Olives",
+    "price": 189,
+    "category": "Clothing",
+    "tags": "organic",
+    "brand": "Feedfire"
+  },
+  {
+    "name": "Luxury Rolling Makeup Case",
+    "price": 128,
+    "category": "Office",
+    "tags": "waterproof",
+    "brand": "Quatz"
+  },
+  {
+    "name": "Garlic Parmesan Roasted Potatoes",
+    "price": 6,
+    "category": "Toys",
+    "tags": "healthy",
+    "brand": "Wikido"
+  },
+  {
+    "name": "Compact Hair Dryer",
+    "price": 92,
+    "category": "Food",
+    "tags": "eco",
+    "brand": "Mymm"
+  },
+  {
+    "name": "Almond Joy Bars",
+    "price": 80,
+    "category": "Sports",
+    "tags": "portable",
+    "brand": "JumpXS"
+  },
+  {
+    "name": "Adjustable Resistance Bands",
+    "price": 90,
+    "category": "Food",
+    "tags": "gaming",
+    "brand": "Eayo"
+  },
+  {
+    "name": "Ginger Tea",
+    "price": 14,
+    "category": "Home",
+    "tags": "lightweight",
+    "brand": "Meevee"
+  },
+  {
+    "name": "Herbed Mushroom Risotto",
+    "price": 78,
+    "category": "Clothing",
+    "tags": "healthy",
+    "brand": "Blogspan"
+  },
+  {
+    "name": "Faux Fur Coat",
+    "price": 111,
+    "category": "Beauty",
+    "tags": "organic",
+    "brand": "Jazzy"
+  },
+  {
+    "name": "Beef Tacos",
+    "price": 171,
+    "category": "Office",
+    "tags": "luxury",
+    "brand": "Devcast"
+  },
+  {
+    "name": "Peach Mango Smoothie Mix",
+    "price": 94,
+    "category": "Sports",
+    "tags": "bluetooth",
+    "brand": "Divavu"
+  },
+  {
+    "name": "Handmade Wooden Utensil Set",
+    "price": 128,
+    "category": "Food",
+    "tags": "durable",
+    "brand": "Lazz"
+  },
+  {
+    "name": "Set of Gardening Gloves with Claws",
+    "price": 1,
+    "category": "Food",
+    "tags": "portable",
+    "brand": "Reallinks"
+  },
+  {
+    "name": "Roasted Red Pepper Hummus",
+    "price": 7,
+    "category": "Clothing",
+    "tags": "wireless",
+    "brand": "Meedoo"
+  },
+  {
+    "name": "Portable UV Sterilizer",
+    "price": 10,
+    "category": "Sports",
+    "tags": "reusable",
+    "brand": "Demizz"
+  },
+  {
+    "name": "Organic Coconut Oil",
+    "price": 64,
+    "category": "Beauty",
+    "tags": "portable",
+    "brand": "Chatterpoint"
+  },
+  {
+    "name": "Portable Speaker Stand",
+    "price": 28,
+    "category": "Clothing",
+    "tags": "budget",
+    "brand": "Oyonder"
+  },
+  {
+    "name": "Electric Ice Cream Maker",
+    "price": 131,
+    "category": "Toys",
+    "tags": "durable",
+    "brand": "Buzzster"
+  },
+  {
+    "name": "Laundry Detergent",
+    "price": 34,
+    "category": "Home",
+    "tags": "waterproof",
+    "brand": "Meejo"
+  },
+  {
+    "name": "Non-Slip Yoga Socks",
+    "price": 186,
+    "category": "Food",
+    "tags": "luxury",
+    "brand": "Flipopia"
+  },
+  {
+    "name": "Vegetarian Stir Fry Sauce",
+    "price": 165,
+    "category": "Toys",
+    "tags": "luxury",
+    "brand": "Fanoodle"
+  },
+  {
+    "name": "Solar Power Bank",
+    "price": 138,
+    "category": "Toys",
+    "tags": "organic",
+    "brand": "Quinu"
+  },
+  {
+    "name": "High-Speed HDMI Cable",
+    "price": 53,
+    "category": "Office",
+    "tags": "bluetooth",
+    "brand": "Jaxbean"
+  },
+  {
+    "name": "Chocolate Covered Pretzels",
+    "price": 134,
+    "category": "Home",
+    "tags": "portable",
+    "brand": "Aimbo"
+  },
+  {
+    "name": "Pet Bed with Removable Cover",
+    "price": 26,
+    "category": "Clothing",
+    "tags": "gaming",
+    "brand": "Yotz"
+  },
+  {
+    "name": "Dishwasher Safe Cutting Board",
+    "price": 155,
+    "category": "Electronics",
+    "tags": "handmade",
+    "brand": "Oyonder"
+  },
+  {
+    "name": "Oven-Baked Chicken Tenders",
+    "price": 89,
+    "category": "Toys",
+    "tags": "portable",
+    "brand": "Skaboo"
+  },
+  {
+    "name": "Garlic Naan Bread",
+    "price": 84,
+    "category": "Home",
+    "tags": "luxury",
+    "brand": "Dynabox"
+  },
+  {
+    "name": "Pecan Nuts",
+    "price": 57,
+    "category": "Office",
+    "tags": "durable",
+    "brand": "Tambee"
+  },
+  {
+    "name": "Scent Diffuser Oil",
+    "price": 198,
+    "category": "Food",
+    "tags": "wireless",
+    "brand": "Miboo"
+  },
+  {
+    "name": "Sesame Oil",
+    "price": 128,
+    "category": "Home",
+    "tags": "durable",
+    "brand": "Devify"
+  },
+  {
+    "name": "Lemon Garlic Marinade",
+    "price": 155,
+    "category": "Beauty",
+    "tags": "lightweight",
+    "brand": "Twimm"
+  },
+  {
+    "name": "Italian Sausage and Peppers",
+    "price": 108,
+    "category": "Clothing",
+    "tags": "handmade",
+    "brand": "Reallinks"
+  },
+  {
+    "name": "LED Flashlight",
+    "price": 50,
+    "category": "Sports",
+    "tags": "durable",
+    "brand": "Lazz"
+  },
+  {
+    "name": "Wall-Mounted Organizer",
+    "price": 178,
+    "category": "Clothing",
+    "tags": "lightweight",
+    "brand": "Mydeo"
+  },
+  {
+    "name": "Outdoor Camping Hammock",
+    "price": 65,
+    "category": "Beauty",
+    "tags": "wireless",
+    "brand": "Shuffletag"
+  },
+  {
+    "name": "Cranberry Orange Oatmeal",
+    "price": 69,
+    "category": "Electronics",
+    "tags": "eco",
+    "brand": "Voomm"
+  }
+]
