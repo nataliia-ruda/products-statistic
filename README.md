@@ -1,18 +1,19 @@
-Product Statistics
+## Product Statistics
 
-Консольна програма-скрипт, яка парсить JSON-файли з товарами, формує статистику за атрибутом та експортує результати в XML-форматі.
+A console program (script) that parses JSON files with products, generates statistics by an attribute, and exports the results in XML format.
 
-Предметна область - товари.
+Domain area – products.
 
-Основна сутність Product містить атрибути:
+The main entity Product contains the following attributes:
 
-- name String
-- price double
-- category String
-- tags String (список тегів, розділених комами: "eco, handmade, premium")
-- brand String
+name String  
+price double  
+category String  
+tags String (a list of tags separated by commas: "eco, handmade, premium")  
+brand String  
 
-Приклад вхідного JSON-файла:
+Example of an input JSON file:
+
 ```json
 [
   {
@@ -32,7 +33,7 @@ Product Statistics
 ]
 ```
 
-Приклад вихідного файлу:
+Example of an output file:
 <pre>
 &lt;statistics&gt;
   &lt;item&gt;
@@ -46,15 +47,13 @@ Product Statistics
 &lt;/statistics&gt;
 </pre>
 
-Експеримент з кількістю потоків:
+Experiment with the number of threads:
 
-Дані: 3 JSON-файли по 50 товарів у кожному (150 об'єктів).
-Результати:
-Результати:
+Data: 3 JSON files with 50 products in each (150 objects total).  
+Results:
 - 1 - 100 ms
 - 2 - 110 ms
 - 4 - 95 ms
 - 8 - 95 ms
 
-Висновки:
-Прискорення спостерігається при переході від 1 до 4 потоків. При збільшенні кількості потоків до 8 пришвидшення не спостерігалося, що є очікуваним для невеликих JSON-файлів.
+Conclusions: Speedup is observed when moving from 1 to 4 threads. When increasing the number of threads to 8, no further speedup was observed, which is expected for small JSON files.
