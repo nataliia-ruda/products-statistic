@@ -1,12 +1,13 @@
 package product.statistics.parser;
 
+import com.fasterxml.jackson.core.JsonParser;
+import com.fasterxml.jackson.core.JsonToken;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.fasterxml.jackson.databind.SerializationFeature;
 import product.statistics.model.Product;
 
 import java.io.IOException;
 import java.nio.file.Path;
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.List;
 
 public class ProductParser {
@@ -15,12 +16,23 @@ public class ProductParser {
 
     public ProductParser() {
         this.jsonMapper = new ObjectMapper();
-        this.jsonMapper.enable(SerializationFeature.INDENT_OUTPUT);
     }
 
     public List<Product> parseFile(Path filePath) throws IOException {
+        List<Product> products = new ArrayList<>();
 
-        Product[] products = jsonMapper.readValue(filePath.toFile(), Product[].class);
-        return Arrays.asList(products);
+        try (JsonParser parser = jsonMapper.getFactory().createParser(filePath.toFile())) {
+
+            if (parser.nextToken() != JsonToken.START_ARRAY) {
+                throw new IOException("Expected JSON array in file: " + filePath);
+            }
+
+            while (parser.nextToken() == JsonToken.START_OBJECT) {
+                Product product = jsonMapper.readValue(parser, Product.class);
+                products.add(product);
+            }
+        }
+
+        return products;
     }
 }
