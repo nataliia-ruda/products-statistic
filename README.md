@@ -1,6 +1,6 @@
 ## Product Statistics
 
-A console program (script) that parses JSON files with products, generates statistics by an attribute, and exports the results in XML format.
+A console program that parses JSON files with products, generates statistics by an attribute, and exports the results in XML format.
 
 Domain area – products.
 
